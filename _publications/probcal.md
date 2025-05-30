@@ -7,7 +7,7 @@ excerpt: 'While significant progress has been made in specifying neural networks
 date: 2025-05-06
 venue: '28th European Conference on Artifical Intelligence (ECAI) [In Submission]'
 paperurl: 'https://arxiv.org/abs/2405.12412'
-bibtexurl: 'http://spencer-young.github.io/files/probcal.bib'
+bibtexurl: 'http://spencermyoung513.github.io/files/probcal.bib'
 citation: 'Young, S., Edgren, C., Sinema, R., Hall, A., Dong, N. & Jenkins, P. (2025). &quot;Beyond Calibration: Assessing the Probabilistic Fit of Neural Regressors via Conditional Congruence.&quot; <i>28th European Conference on Artifical Intelligence [In Submission]</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

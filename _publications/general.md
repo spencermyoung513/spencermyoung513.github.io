@@ -7,7 +7,7 @@ excerpt: "As machine learning systems become increasingly integrated into real-w
 date: 2024-05-20
 venue: '3rd Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD)'
 paperurl: 'https://arxiv.org/abs/2405.12412v1'
-bibtexurl: 'http://spencer-young.github.io/files/general.bib'
+bibtexurl: 'http://spencermyoung513.github.io/files/general.bib'
 citation: 'Young, S. & Jenkins, P. (2024). &quot;A General Method for Measuring Calibration of Probabilistic Neural Regressors.&quot; <i>3rd Workshop on Uncertainty Reasoning and Quantification in Decision Making (KDD)</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
