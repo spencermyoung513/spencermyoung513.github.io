@@ -84,6 +84,8 @@ publication_category:
     title: 'Workshop Papers'
   manuscript:
     title: 'Manuscripts'
+  under_review:
+    title: 'Under Review'
   in_progress:
     title: 'Work in Progress'
 
